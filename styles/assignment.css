@@ -202,6 +202,7 @@ main{
 .getintouch{
     display: flex;
     gap: 100px;
+    padding: 140px 0;
   
 }
 .contact-form-div{
@@ -244,5 +245,18 @@ main{
     font-size: 20px;
     line-height: 150%;
     letter-spacing: 0%;
+}
+.footer{
+    background-color: white;
+}
+.footer-logo{
+    font-size: 100px;
+    font-weight: 900;
+    padding: 100px 0 0;
+    margin: 0;
+    letter-spacing: 0;
+}
+.footer-p{
+    color: #aaa;
 }
 
